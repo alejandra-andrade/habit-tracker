@@ -31,7 +31,7 @@ Este proyecto es una aplicación web para ayudar a las personas a crear y gestio
 4. Inicia el servidor:
 
     ```bash
-    npm run dev
+    node server.js
     ```
 
 El servidor correrá en `http://localhost:5000`.
