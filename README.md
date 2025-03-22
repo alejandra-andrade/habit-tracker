@@ -33,8 +33,16 @@ Este proyecto es una aplicación web para ayudar a las personas a crear y gestio
     ```bash
     node server.js
     ```
-
-El servidor correrá en `http://localhost:5000`.
+5. Iniciar backend
+   ```bash
+    npm start
+    ```
+6. Iniciar frontend
+   ```bash
+    npm run dev
+    ```
+8. 
+El servidor correrá en `http://localhost:5001`.
 
 ## Endpoints
 
